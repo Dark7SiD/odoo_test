@@ -1,0 +1,4 @@
+[submodule "Dark7SiD/opencart_connector"]
+	path = Dark7SiD/opencart_connector
+	url = git@github.com:Dark7SiD/opencart_connector.git
+	branch = master
