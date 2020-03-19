@@ -1,0 +1,4 @@
+[submodule "Dark7SiD/odoo_modules"]
+	path = Dark7SiD/odoo_modules
+	url = git@github.com:Dark7SiD/odoo_modules.git
+	branch = master
